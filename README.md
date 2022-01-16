@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     //while,do while,for
+	
     int pil;
 
     cout<< "========menu========"<<endl;
